@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Md-Saquib-Irfan
 - 👀 I’m interested in Learning new things
-- 🌱 I’m currently learning computer language 
+- 🌱 I’m currently learning computer languages
 - 💞️ I’m looking to collaborate on AI development 
 - 📫 How to reach me mdsaquibirfan783@gmail.com
 
